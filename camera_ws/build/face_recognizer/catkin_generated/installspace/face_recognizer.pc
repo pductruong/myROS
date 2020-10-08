@@ -1,0 +1,8 @@
+prefix=/home/tucuman/camera_ws/install
+
+Name: face_recognizer
+Description: Description of face_recognizer
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

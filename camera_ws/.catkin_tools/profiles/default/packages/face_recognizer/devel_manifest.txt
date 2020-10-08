@@ -1,0 +1,5 @@
+face_recognizer
+/home/tucuman/camera_ws/devel/.private/face_recognizer/cmake.lock /home/tucuman/camera_ws/devel/./cmake.lock
+/home/tucuman/camera_ws/devel/.private/face_recognizer/share/face_recognizer/cmake/face_recognizerConfig-version.cmake /home/tucuman/camera_ws/devel/share/face_recognizer/cmake/face_recognizerConfig-version.cmake
+/home/tucuman/camera_ws/devel/.private/face_recognizer/share/face_recognizer/cmake/face_recognizerConfig.cmake /home/tucuman/camera_ws/devel/share/face_recognizer/cmake/face_recognizerConfig.cmake
+/home/tucuman/camera_ws/devel/.private/face_recognizer/lib/pkgconfig/face_recognizer.pc /home/tucuman/camera_ws/devel/lib/pkgconfig/face_recognizer.pc
