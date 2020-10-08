@@ -1,0 +1,8 @@
+prefix=/home/tucuman/catkin_ws/devel
+
+Name: qrcode
+Description: Description of qrcode
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

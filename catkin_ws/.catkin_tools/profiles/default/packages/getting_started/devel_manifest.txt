@@ -1,0 +1,5 @@
+getting_started
+/home/tucuman/catkin_ws/devel/.private/getting_started/cmake.lock /home/tucuman/catkin_ws/devel/./cmake.lock
+/home/tucuman/catkin_ws/devel/.private/getting_started/share/getting_started/cmake/getting_startedConfig-version.cmake /home/tucuman/catkin_ws/devel/share/getting_started/cmake/getting_startedConfig-version.cmake
+/home/tucuman/catkin_ws/devel/.private/getting_started/share/getting_started/cmake/getting_startedConfig.cmake /home/tucuman/catkin_ws/devel/share/getting_started/cmake/getting_startedConfig.cmake
+/home/tucuman/catkin_ws/devel/.private/getting_started/lib/pkgconfig/getting_started.pc /home/tucuman/catkin_ws/devel/lib/pkgconfig/getting_started.pc

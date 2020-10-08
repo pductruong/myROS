@@ -1,0 +1,8 @@
+prefix=/home/tucuman/catkin_ws/devel
+
+Name: cv_bridge
+Description: Description of cv_bridge
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

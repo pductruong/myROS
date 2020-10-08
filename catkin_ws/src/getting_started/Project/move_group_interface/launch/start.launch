@@ -1,0 +1,6 @@
+<launch>
+
+  <node name="move_group_interface" pkg="getting_started" type="move_group_interface.py" respawn="false" output="screen">
+  </node>
+
+</launch>

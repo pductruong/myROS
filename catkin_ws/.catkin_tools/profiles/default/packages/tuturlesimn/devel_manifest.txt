@@ -1,0 +1,5 @@
+tuturlesimn
+/home/tucuman/catkin_ws/devel/.private/tuturlesimn/cmake.lock /home/tucuman/catkin_ws/devel/./cmake.lock
+/home/tucuman/catkin_ws/devel/.private/tuturlesimn/share/tuturlesimn/cmake/tuturlesimnConfig.cmake /home/tucuman/catkin_ws/devel/share/tuturlesimn/cmake/tuturlesimnConfig.cmake
+/home/tucuman/catkin_ws/devel/.private/tuturlesimn/share/tuturlesimn/cmake/tuturlesimnConfig-version.cmake /home/tucuman/catkin_ws/devel/share/tuturlesimn/cmake/tuturlesimnConfig-version.cmake
+/home/tucuman/catkin_ws/devel/.private/tuturlesimn/lib/pkgconfig/tuturlesimn.pc /home/tucuman/catkin_ws/devel/lib/pkgconfig/tuturlesimn.pc

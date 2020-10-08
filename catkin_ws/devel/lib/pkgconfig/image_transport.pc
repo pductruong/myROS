@@ -1,0 +1,8 @@
+prefix=/home/tucuman/catkin_ws/devel
+
+Name: image_transport
+Description: Description of image_transport
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

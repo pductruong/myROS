@@ -1,0 +1,2 @@
+cv_basics:cv_bridge:detect_pump:face_reg:getting_started:learning_tf:m2wr_description:qrcode
+-DCATKIN_DEVEL_PREFIX=/home/tucuman/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/tucuman/catkin_ws/install -G Unix Makefiles
